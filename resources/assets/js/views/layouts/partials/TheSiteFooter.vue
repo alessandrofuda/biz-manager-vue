@@ -3,8 +3,8 @@
     <div class="text-right">
       {{ $t('general.powered_by') }}
       <a
-        href="http://bytefury.com/"
-        target="_blank">{{ $t('general.bytefury') }}
+        href="#"
+        target="_blank">AAAAA
       </a>
     </div>
   </footer>

@@ -9,7 +9,7 @@
       >
       <img
         id="logo-mobile"
-        src="/assets/img/crater-white-small.png"
+        src="/assets/img/logo-white-small.png"
         alt="Laraspace Logo"
         class="d-md-none">
     </a>
