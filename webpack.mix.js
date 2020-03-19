@@ -25,5 +25,5 @@ if (!mix.inProduction()) {
     devtool: 'source-map'
   }).sourceMaps()
 } else {
-  mix.version()
+  mix.version()  // append custom string (unique hash) to force caching
 }
